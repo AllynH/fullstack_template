@@ -1,0 +1,27 @@
+{
+  "name": "fullstack_template",
+  "version": "1.0.0",
+  "description": "Full stack template for Flask and ReactJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllynH/fullstack_template.git"
+  },
+  "keywords": [
+    "Flask",
+    "React",
+    "ReactJS"
+  ],
+  "author": "AllynH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AllynH/fullstack_template/issues"
+  },
+  "homepage": "https://github.com/AllynH/fullstack_template#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
