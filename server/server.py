@@ -13,7 +13,8 @@ def index():
 @app.route("/hello")
 def hello():
 	""" Return random Hello to browser """
-	return get_hello
+	print("Testing!")
+	return get_hello()
 
 def get_hello():
 	""" return random hello! """
